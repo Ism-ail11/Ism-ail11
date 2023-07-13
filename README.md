@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail LAMAAKAL</h1>
 <h3 align="center">MSc Data Science Student | TinyML | MLOps | LiFT Scholar 2023 | Software engineer @alx_africa | 2x Harvard Certified | Cloud enthusiast | 10x Azure | 2x AWS | GCP | 4x Alibaba Cloud | Kubernetes | Terraform</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ism-ail11&label=Profile%20views&color=0e75b6&style=flat" alt="ism-ail11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ism-ail11" alt="ism-ail11" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ism_ail99" target="blank"><img src="https://img.shields.io/twitter/follow/ism_ail99?logo=twitter&style=for-the-badge" alt="ism_ail99" /></a> </p>
-
 
 - 🔭 I’m currently working on **Data science Projetcs**
 
