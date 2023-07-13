@@ -2,6 +2,9 @@
 <h3 align="center">MSc Data Science Student | TinyML | MLOps | LiFT Scholar 2023 | Software engineer @alx_africa | 2x Harvard Certified | Cloud enthusiast | 10x Azure | 2x AWS | GCP | 4x Alibaba Cloud | Kubernetes | Terraform</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+
+
+
 - 🔭 I’m currently working on **Data science Projetcs**
 
 - 🌱 I’m currently learning **TinyML , Cloud Computing , Data analysis Tools , Big data**
