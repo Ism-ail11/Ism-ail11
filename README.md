@@ -1,5 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
-
 <h1 align="center">Hi 👋, I'm Ismail LAMAAKAL</h1>
 <h3 align="center">MSc Data Science Student | TinyML | MLOps | LiFT Scholar 2023 | Software engineer @alx_africa | 2x Harvard Certified | Cloud enthusiast | 10x Azure | 2x AWS | GCP | 4x Alibaba Cloud | Kubernetes | Terraform</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
