@@ -18,12 +18,12 @@
 
 - 💬 Ask me about **TinyML , Machine learning , Deep learning , NLP , Computer Vision , Cloud Computing , AWS , GCP , Azure , Kubernetes , Terraform ,**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ismail-lamaakal-3a34a1214/**
+- 📫 How to reach me **https://www.linkedin.com/in/ismaillamaakal/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ism_ail99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ism_ail99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ismail-lamaakal-3a34a1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-lamaakal-3a34a1214" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ismaillamaakal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-lamaakal-3a34a1214" height="30" width="40" /></a>
 <a href="https://instagram.com/ismailo_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailo_xd" height="30" width="40" /></a>
 <a href="https://medium.com/@ismail.lamaakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ismail.lamaakal" height="30" width="40" /></a>
 </p>
