@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail LAMAAKAL</h1>
-<h3 align="center">MSc Data Science Student | TinyML | MLOps | LiFT Scholar 2023 | Software engineer @alx_africa | 2x Harvard Certified | Cloud enthusiast | 10x Azure | 2x AWS | GCP | 4x Alibaba Cloud | Kubernetes | Terraform</h3>
+<h3 align="center">AI & Cloud Engineer @ HYPER TALENT SOLUTIONS LTD | 6x LinkedIn Top Voice | PhD Candidate @FPN | TinyML Researcher-MASI Laboratory | 9xGCP,3xAWS,10xAzure,2xOracle,3xAlibaba | MLOps | DevOps
+</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
